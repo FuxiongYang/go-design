@@ -1,0 +1,1 @@
+# Learning Record of Design Patterns for Golang
