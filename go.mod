@@ -1,3 +1,3 @@
-module github.com/yangfuxiong/go-design
+module github.com/FuxiongYang/go-design
 
 go 1.17
